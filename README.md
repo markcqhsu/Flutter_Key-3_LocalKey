@@ -1,18 +1,8 @@
-# temp_0526_0
+# Flutter 教程 Key-3 局部键 LocalKey 的三种类型
 
-A new Flutter project.
+網站：https://www.bilibili.com/video/BV1Jz4y1D7Jp
 
-## Getting Started
+真的感謝作者, 很詳細的介紹了Flutter 的Key值應用,
+本來是完全不理解～現在有點略懂了～
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_Key-3_LocalKey
-# Flutter_Key-3_LocalKey
+這個作者的其他系列也都相當的推薦.
